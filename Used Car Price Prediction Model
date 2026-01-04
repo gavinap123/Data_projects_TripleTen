@@ -4,6 +4,8 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
+
+"A quick Tableau breakdown of the dataset can be found here: https://public.tableau.com/app/profile/gavin.perdomo/viz/UsedCarData_17675044708340/Dashboard1"
     "Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. You need to build the model to determine the value. \n",
     "\n",
     "Rusty Bargain is interested in:\n",
